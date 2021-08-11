@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Zillow_Group_Project
 
-You can use the [editor on GitHub](https://github.com/codepast12/Zillow_Group_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview of the housing market analysis 
+* The purpose of this analysis is to help create informative and helpful visualizations of current and past housing market data acquired from Zillow's database and api, as well as to compare how close initial listing prices are to actual ending sale price. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Purpose for the topic chosen 
+* The purpose of this analysis was to apply data analysis tools and techniques to try and better understand the correlation between the listing price vs the actual sale price of homes in the current market. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Description of the Source data 
+* The data being utilized was pulled from Zillow Housing Data sets. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Technologies to be utilized 
+* In this analysis the methods and technologies being used are Jupyter Notebook, Python, PostgreSQL, and Tableau.  
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Communication protocols 
+* All four team members communicate primarily using slack, additionally team members are all present in biannual zoom meetings to go over GitHub pull requests and branch management. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Questions to be answered 
+* The purpose of this analysis is to see the relationship and correlation between listing prices and sale prices of homes using the most current data available. Are listing prices realistic numbers to start with as a seller, compared to what the actual home's value is upon final sale? 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codepast12/Zillow_Group_Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Roles
+* David - Triangle
+* Al - Circle
+* Ethan - X
+* John - Square
 
-### Support or Contact
+## Technologies Used
+* PostGres
+* AWS
+* Tableau
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Data Sources
+* [Zillow](https://www.zillow.com/research/data/) 
+* [Census Data](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html#tables)
+
+## [Google Slides](https://docs.google.com/presentation/d/1On8H-IbvfuG-GGxrrn4uJLDcsZA6EVINxqNY2ZolDDs/edit#slide=id.gc6f9e470d_0_24)
